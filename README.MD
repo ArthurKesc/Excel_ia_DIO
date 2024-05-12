@@ -13,7 +13,7 @@
 # Artigo Projeto: Excel e o uso de IAs
 
 
-<href="https://web.dio.me/articles/excel-e-o-uso-e-a-programacao-de-ia?back=%2Farticles&open-modal=true&page=1&order=oldest">
+"https://web.dio.me/articles/excel-e-o-uso-e-a-programacao-de-ia?back=%2Farticles&open-modal=true&page=1&order=oldest"
 
 
 Pront Utilizado -> https://chatgpt.com/:
